@@ -2,7 +2,7 @@
 	"name" : "deforestationVizProject 06.04.13",
 	"version" : 1,
 	"creationdate" : 3649554078,
-	"modificationdate" : 3649575848,
+	"modificationdate" : 3649580252,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -47,6 +47,11 @@
 			}
 ,
 			"sh.sprite.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"createListValue.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
