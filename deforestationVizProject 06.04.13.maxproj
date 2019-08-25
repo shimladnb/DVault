@@ -2,7 +2,7 @@
 	"name" : "deforestationVizProject 06.04.13",
 	"version" : 1,
 	"creationdate" : 3649554078,
-	"modificationdate" : 3649566320,
+	"modificationdate" : 3649575848,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -33,6 +33,44 @@
 ,
 			"getSpecificIndex.maxpat" : 			{
 				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"createListCountries.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"parseElementValue.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"sh.sprite.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+
+		}
+,
+		"media" : 		{
+			"265_low_ground_cover_tree-3YF0BT.obj" : 			{
+				"kind" : "model",
+				"local" : 1
+			}
+,
+			"Alpine70k.obj" : 			{
+				"kind" : "model",
+				"local" : 1
+			}
+,
+			"Alpine50k.obj" : 			{
+				"kind" : "model",
+				"local" : 1
+			}
+,
+			"glitchSprite.png" : 			{
+				"kind" : "imagefile",
 				"local" : 1
 			}
 
