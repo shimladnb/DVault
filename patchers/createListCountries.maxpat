@@ -119,12 +119,12 @@
 					"numinlets" : 1,
 					"numoutlets" : 4,
 					"outlettype" : [ "", "", "", "" ],
-					"patching_rect" : [ 60.0, 285.0, 69.0, 22.0 ],
+					"patching_rect" : [ 60.0, 285.0, 72.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"embed" : 0
 					}
 ,
-					"text" : "coll country"
+					"text" : "coll Country"
 				}
 
 			}
