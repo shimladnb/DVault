@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 0.0, 47.0, 1585.0, 949.0 ],
+		"rect" : [ 0.0, 47.0, 883.0, 949.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -38,18 +38,6 @@
 		"style" : "",
 		"subpatcher_template" : "cleanSubPatcher",
 		"boxes" : [ 			{
-				"box" : 				{
-					"id" : "obj-55",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 3,
-					"outlettype" : [ "jit_gl_texture", "", "" ],
-					"patching_rect" : [ 172.5, 825.0, 198.0, 22.0 ],
-					"text" : "jit.gl.node forest @name forestation"
-				}
-
-			}
-, 			{
 				"box" : 				{
 					"color" : [ 0.701960784313725, 0.811764705882353, 0.301960784313725, 1.0 ],
 					"id" : "obj-40",
@@ -94853,8 +94841,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "jit_gl_texture", "", "" ],
-					"patching_rect" : [ 30.0, 885.0, 520.0, 22.0 ],
-					"text" : "jit.gl.node forest @name textLayer @capture 0 @layer 2 @depth_clear 1 @scale 1.47 1.47 1.47"
+					"patching_rect" : [ 30.0, 885.0, 527.0, 22.0 ],
+					"text" : "jit.gl.node forest @name forestation @capture 0 @layer 2 @depth_clear 1 @scale 1.47 1.47 1.47"
 				}
 
 			}

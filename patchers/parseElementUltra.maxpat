@@ -4225,8 +4225,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 150.0, 675.0, 292.0, 22.0 ],
-					"text" : "jit.gl.text3d forest @scale 0.17 0.17 0.17 @antialias 1"
+					"patching_rect" : [ 150.0, 675.0, 318.0, 22.0 ],
+					"text" : "jit.gl.text3d #2 @scale 0.17 0.17 0.17 @antialias 1"
 				}
 
 			}
