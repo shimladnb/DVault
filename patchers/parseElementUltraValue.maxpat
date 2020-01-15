@@ -57,7 +57,7 @@
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"outlettype" : [ "bang" ],
 					"patching_rect" : [ 420.0, 116.0, 30.0, 30.0 ]
 				}
 
@@ -82,7 +82,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 364.5, 420.0, 102.5, 35.0 ],
+					"patching_rect" : [ 364.5, 420.0, 90.5, 35.0 ],
 					"text" : "loadmess #1 "
 				}
 
@@ -430,7 +430,6 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-7",
-									"linecount" : 3,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -4140,8 +4139,8 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 105.0, 705.0, 61.0, 22.0 ],
-					"text" : "r toText3d"
+					"patching_rect" : [ 105.0, 705.0, 91.0, 22.0 ],
+					"text" : "r toText3dValue"
 				}
 
 			}
@@ -4152,8 +4151,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 150.0, 675.0, 379.0, 22.0 ],
-					"text" : "jit.gl.text3d #2 @scale 0.17 0.17 0.17 @antialias 1 @align 1"
+					"patching_rect" : [ 150.0, 675.0, 369.0, 22.0 ],
+					"text" : "jit.gl.text3d #2 @scale 0.17 0.17 0.17 @antialias 1 @align 0"
 				}
 
 			}
@@ -4287,7 +4286,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 150.5, 150.0, 101.0, 35.0 ],
+					"patching_rect" : [ 150.5, 150.0, 98.833333333333314, 35.0 ],
 					"text" : "zl compare #1"
 				}
 
