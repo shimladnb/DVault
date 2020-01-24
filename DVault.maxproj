@@ -1,9 +1,9 @@
 {
-	"name" : "DataVault",
+	"name" : "DVault",
 	"version" : 1,
 	"creationdate" : 3649554078,
-	"modificationdate" : 3661956756,
-	"viewrect" : [ 82.0, 79.0, 300.0, 500.0 ],
+	"modificationdate" : 3662732084,
+	"viewrect" : [ 53.0, 376.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -31,17 +31,17 @@
 				"local" : 1
 			}
 ,
-			"parseElementUltra.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
 			"parseElementUltraValue.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
 			"parseElementUltraGraph.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"parseElementUltra.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -112,6 +112,81 @@
 		}
 ,
 		"data" : 		{
+			"Primary completion rate, male (% of relevant age group).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"CO2 emissions (metric tons per capita).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Literacy rate, adult total (% of people ages 15 and above).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Agricultural land (% of land area).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Access to electricity (% of population).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Current account balance (BoP, current US$.xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Labor force, total.xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Population growth (annual %).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Government expenditure on education, total (% of GDP).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Urban population (% of total population).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"GDP per capita (current US$).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"GDP growth (annual %).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Unemployment, total (% of total labor force.xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"GDP (current US$).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Industry (including construction), value added (% of GDP).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
 			"deforestationData.xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
