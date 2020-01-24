@@ -2,7 +2,7 @@
 	"name" : "DVault",
 	"version" : 1,
 	"creationdate" : 3649554078,
-	"modificationdate" : 3662732084,
+	"modificationdate" : 3662736127,
 	"viewrect" : [ 53.0, 376.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -167,6 +167,11 @@
 				"local" : 1
 			}
 ,
+			"Forest area (% of land area).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
 			"GDP growth (annual %).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
@@ -183,16 +188,6 @@
 			}
 ,
 			"Industry (including construction), value added (% of GDP).xml" : 			{
-				"kind" : "xmlfile",
-				"local" : 1
-			}
-,
-			"deforestationData.xml" : 			{
-				"kind" : "xmlfile",
-				"local" : 1
-			}
-,
-			"deforestationDataTrimmed.xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
