@@ -2,8 +2,8 @@
 	"name" : "DVault",
 	"version" : 1,
 	"creationdate" : 3649554078,
-	"modificationdate" : 3662736127,
-	"viewrect" : [ 53.0, 376.0, 300.0, 500.0 ],
+	"modificationdate" : 3662738666,
+	"viewrect" : [ 247.0, 258.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -142,17 +142,22 @@
 				"local" : 1
 			}
 ,
-			"Labor force, total.xml" : 			{
-				"kind" : "xmlfile",
-				"local" : 1
-			}
-,
 			"Population growth (annual %).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
 ,
+			"Labor force total.xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
 			"Government expenditure on education, total (% of GDP).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Forest area (% of land area).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
@@ -163,11 +168,6 @@
 			}
 ,
 			"GDP per capita (current US$).xml" : 			{
-				"kind" : "xmlfile",
-				"local" : 1
-			}
-,
-			"Forest area (% of land area).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
