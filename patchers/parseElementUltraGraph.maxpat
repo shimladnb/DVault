@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 0.0, 43.0, 1920.0, 997.0 ],
+		"rect" : [ -8.0, 43.0, 1920.0, 997.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -11873,8 +11873,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 339.5, 1640.0, 459.0, 22.0 ],
-					"text" : "jit.gl.gridshape graphLayer @shape plane @gl_color 0 0 0 0.5 @position 0. 0. -0.005"
+					"patching_rect" : [ 339.5, 1640.0, 449.0, 22.0 ],
+					"text" : "jit.gl.gridshape graphLayer @shape plane @gl_color 0 0 0 1 @position 0. 0. -0.005"
 				}
 
 			}
