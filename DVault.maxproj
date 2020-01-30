@@ -2,8 +2,8 @@
 	"name" : "DVault",
 	"version" : 1,
 	"creationdate" : 3649554078,
-	"modificationdate" : 3663245331,
-	"viewrect" : [ 151.0, 215.0, 300.0, 500.0 ],
+	"modificationdate" : 3663261614,
+	"viewrect" : [ 151.0, 215.0, 394.0, 695.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -117,27 +117,7 @@
 		}
 ,
 		"data" : 		{
-			"Cause of death, by injury (% of total).xml" : 			{
-				"kind" : "xmlfile",
-				"local" : 1
-			}
-,
-			"Forest area (% of land area).xml" : 			{
-				"kind" : "xmlfile",
-				"local" : 1
-			}
-,
-			"Primary completion, male (% age group).xml" : 			{
-				"kind" : "xmlfile",
-				"local" : 1
-			}
-,
-			"CO2 emissions (metric tons per capita).xml" : 			{
-				"kind" : "xmlfile",
-				"local" : 1
-			}
-,
-			"Literacy rate, adult total (% of people).xml" : 			{
+			"Access to electricity (% of population).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
@@ -147,37 +127,32 @@
 				"local" : 1
 			}
 ,
-			"Access to electricity (% of population).xml" : 			{
+			"Alternative and nuclear energy (% of total energy use).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
 ,
-			"Current account balance (current US$).xml" : 			{
+			"Cause of death, by injury (% of total).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
 ,
-			"Labor force total.xml" : 			{
+			"Central government debt, total (% of GDP).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
 ,
-			"Population growth (annual %).xml" : 			{
+			"Energy imports, net (% of energy use).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
 ,
-			"Government expense on education, total (% of GDP).xml" : 			{
+			"Forest area (% of land area).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
 ,
-			"Urban population (% of total population).xml" : 			{
-				"kind" : "xmlfile",
-				"local" : 1
-			}
-,
-			"GDP per capita (current US$).xml" : 			{
+			"Fossil fuel energy consumption (% of total).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
@@ -187,17 +162,47 @@
 				"local" : 1
 			}
 ,
-			"Unemployment, total (% of total labor force.xml" : 			{
-				"kind" : "xmlfile",
-				"local" : 1
-			}
-,
-			"GDP (current US$).xml" : 			{
+			"Government expense on education, total (% of GDP).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
 ,
 			"Industry, value added (% of GDP).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Labor force, female (% of total labor force).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Literacy rate, adult total (% of people).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Population growth (annual %).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Primary completion, male (% age group).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Renewable electricity output (% of total electricity output).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Unemployment, total (% of total labor force).xml" : 			{
+				"kind" : "xmlfile",
+				"local" : 1
+			}
+,
+			"Urban population (% of total population).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
