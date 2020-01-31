@@ -2,7 +2,7 @@
 	"name" : "DVault",
 	"version" : 1,
 	"creationdate" : 3649554078,
-	"modificationdate" : 3663261614,
+	"modificationdate" : 3663314374,
 	"viewrect" : [ 151.0, 215.0, 394.0, 695.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -132,17 +132,17 @@
 				"local" : 1
 			}
 ,
-			"Cause of death, by injury (% of total).xml" : 			{
+			"Cause of death by injury (% of total).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
 ,
-			"Central government debt, total (% of GDP).xml" : 			{
+			"Central government debt total (% of GDP).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
 ,
-			"Energy imports, net (% of energy use).xml" : 			{
+			"Energy imports net (% of energy use).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
@@ -162,22 +162,22 @@
 				"local" : 1
 			}
 ,
-			"Government expense on education, total (% of GDP).xml" : 			{
+			"Government expense on education total (% of GDP).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
 ,
-			"Industry, value added (% of GDP).xml" : 			{
+			"Industry value added (% of GDP).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
 ,
-			"Labor force, female (% of total labor force).xml" : 			{
+			"Labor force female (% of total labor force).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
 ,
-			"Literacy rate, adult total (% of people).xml" : 			{
+			"Literacy rate adult total (% of people).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
@@ -187,7 +187,7 @@
 				"local" : 1
 			}
 ,
-			"Primary completion, male (% age group).xml" : 			{
+			"Primary completion male (% age group).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
@@ -197,7 +197,7 @@
 				"local" : 1
 			}
 ,
-			"Unemployment, total (% of total labor force).xml" : 			{
+			"Unemployment total (% of total labor force).xml" : 			{
 				"kind" : "xmlfile",
 				"local" : 1
 			}
